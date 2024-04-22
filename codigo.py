@@ -1,4 +1,4 @@
-nombre = "JORGE CROCS"
+nombre = "JORGE CROCS STANLEY"
 apellido = "rivas"
 
 print ("Hola "+ nombre + " " + apellido + " ¿Como estas?") 
